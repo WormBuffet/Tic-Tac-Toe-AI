@@ -1,0 +1,2 @@
+C:\Users\xvsnf\source\repos\TicTacToeV2\Connect4\Connect4.csproj;x86
+C:\Users\xvsnf\source\repos\TicTacToeV2\Connect4Lib\Connect4Lib.csproj;x86
